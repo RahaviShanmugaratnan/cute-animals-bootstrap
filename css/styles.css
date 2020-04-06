@@ -3,7 +3,7 @@
 body {
 	background-color: #397339;
 	color: #000000;
-	font-family:Tw Cen MT ;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .jumbotron {
@@ -11,14 +11,16 @@ body {
 }
 
 .my-navbar {
-	
+	font-family: 'Montserrat', sans-serif;	
+	color: beige;
 }
 
-.hedgehogtext {
-	
+.row {
 	color: white;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .title {
 	color:blue;
+	font-family: 'Montserrat', sans-serif;
 }
